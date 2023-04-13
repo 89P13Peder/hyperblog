@@ -10,5 +10,6 @@ Un blog maravilloso para el curso de Git y GitHub de Platzi
 * Te enseñan de las buenas prácticas.
 * Trucos del profesor que está medio loquito.
 * Y también tiene personalidades múltiples, ay mamá!
+* Creado por el equipo de Platzi que igual tienen personalidades múltiples
 
 **Este es un Readme de prueba**
